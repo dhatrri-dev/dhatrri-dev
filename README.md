@@ -1,5 +1,5 @@
+<img width="640" height="300" alt="1a17113357e09775f3855f982be25a50" src="https://github.com/user-attachments/assets/5b57a46b-e13d-44ad-8be9-24fc1268e2f3" />
 
-<img width="1731" height="560" alt="animated_image" src="https://github.com/user-attachments/assets/97a35b48-d235-4829-8e34-c9a6cf960849" />
 
 <h1 align="center">Hi, I'm Dhatrri 👋</h1>
 
