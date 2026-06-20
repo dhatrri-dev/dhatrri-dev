@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Dhatrri 👋</h1>
 
 <p align="center">
@@ -34,23 +30,15 @@ I'm a B.Tech Computer Science student who enjoys building full-stack web apps. S
 
 ---
 
-### 📌 Pinned Projects
-
-- **CampusCatalyst** — A full-stack web app for campus life: note sharing, roommate matching, marketplace listings, lost & found, and timetables. Built with React and Supabase.
-- **ReptiTrack** — A shipment tracking system with a database for managing shipments, costs, and basic reporting. Built with Node.js, React, and MySQL.
-- **Pharmacovigilance** — Analyzed a dataset of drug reviews to look at patterns between review sentiment and patient ratings.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhatrri-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhatrri-dev&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatrri-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatrri-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhatrri-dev&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
