@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/07/d1/75/07d175fb8bccc69989b71eb3d988e8ee.gif" alt="Profile Banner" width="100%" />
+</div>
+<br />
+
 <h1 align="center">Hi, I'm Dhatrri 👋</h1>
 
 <p align="center">
