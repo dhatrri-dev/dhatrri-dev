@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/07/d1/75/07d175fb8bccc69989b71eb3d988e8ee.gif" alt="Profile Banner" width="100%" />
-</div>
-<br />
+
+<img width="1731" height="560" alt="animated_image" src="https://github.com/user-attachments/assets/97a35b48-d235-4829-8e34-c9a6cf960849" />
 
 <h1 align="center">Hi, I'm Dhatrri 👋</h1>
 
