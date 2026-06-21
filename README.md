@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/5b57a46b-e13d-44ad-8be9-24fc1268e2f3" width="100%" alt="Profile Banner" />
+<img width="560" height="315" alt="341e800b1f29d3e34ea2eba5a6af205c" src="https://github.com/user-attachments/assets/cecf22fb-e3db-4af1-8e57-0fc6f4e4adb8" />
+
 
 
 <h1 align="center">Hi, I'm Dhatrri 👋</h1>
